@@ -1,1 +1,1 @@
-# A simple react to do application
+# A simple react todo application
